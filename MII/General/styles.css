@@ -1,0 +1,30 @@
+.title {
+  text-align:center;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#mad {
+    width:100%
+}
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+  }
+
+  #start_butt {
+    color: green;
+    font-size: 25px;
+  }
